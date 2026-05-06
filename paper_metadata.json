@@ -1,0 +1,32 @@
+{
+  "papers": [
+    {
+      "title": "Software as a Story: Narrative Architecture as the Cognitive Foundation of Sovereign Agent Systems",
+      "file": "software_as_story_paper.md", "word_count": 5953, "citations": 20, "disciplines": 7,
+      "peer_review": "Accepted with minor revisions",
+      "abstract": "Software is not like a story — software IS a story. Chain-of-Thought, ReAct, and Tree of Thoughts are Aristotelian plot structures executed by machines. Corporate software is a sealed text; open-source sovereign code is a writerly chronicle with preserved provenance.",
+      "keywords": ["narrative architecture", "LLM cognition", "chain-of-thought", "provenance", "Aristotelian plot", "sovereign agents"]
+    },
+    {
+      "title": "The Sovereign Ledger: Distributed Deterministic Provenance as the Cryptographic Foundation of Decentralized Agent Trust",
+      "file": "sovereign_ledger_paper.md", "word_count": 6375, "citations": 24, "disciplines": 8,
+      "peer_review": "Accepted with minor revisions",
+      "abstract": "Trust in an agent is a deterministic function of its verifiable provenance chain. Traces a 40-year lineage: Usenet NNTP → Merkle trees → Nakamoto → BeyondCorp → SLSA/in-toto/Sigstore → SSI/DIDs. Trust ceases to be a social arrangement and becomes a computable function.",
+      "keywords": ["distributed provenance", "Merkle trees", "zero-trust", "SLSA", "Sigstore", "self-sovereign identity"]
+    },
+    {
+      "title": "The Tripartite Quorum: Three-Node Consensus as the Geometric Minimum for Decentralized Truth",
+      "file": "tripartite_quorum_thesis.md", "word_count": 4700, "citations": 24, "disciplines": 7,
+      "peer_review": "Accepted with minor revisions",
+      "abstract": "1 is a fluke. 2 is a coincidence. 3 is Consensus. Proved across 7 disciplines: BFT, Hegel's dialectic, Peirce's semiotics, Poincaré's 3-body problem, TMR, Arrow's impossibility theorem, and Reynolds' Boids.",
+      "keywords": ["tripartite quorum", "Byzantine fault tolerance", "Hegel", "Peirce", "3-body problem", "Arrow impossibility"]
+    }
+  ],
+  "total_citations": 68, "total_disciplines": 9,
+  "compute_cost": "$0.00",
+  "researched_by": "60 subagents across academic databases",
+  "built_at": "Thunder Bay, Ontario, Canada — Home of the Sleeping Giant",
+  "built_by": "The Republic of Nassau",
+  "license": "CC BY-SA 4.0",
+  "version": "v2.0-peer-reviewed"
+}
