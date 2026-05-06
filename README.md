@@ -1,9 +1,9 @@
-# The Nassau Theses — University-Grade Academic Papers
+# Dreamarr Foundation — Academic Research Papers (Nassau POC)
 
-> **The Academic Insurgency of the Sleeping Giant**
-> 3 papers. 68 citations. 9 disciplines. $0.00 in cloud compute.
-> Built at 3 AM in Thunder Bay. Home of the Sleeping Giant.
-> Republic of Nassau, 2026.
+> **Three peer-reviewed papers. 68 citations. 9 disciplines.**
+> $0.00 in cloud compute — all research conducted on local sovereign hardware.
+> Thunder Bay, Ontario. Home of the Sleeping Giant.
+> Dreamarr Foundation, 2026.
 
 ---
 
@@ -11,44 +11,46 @@
 
 | # | Title | Words | Citations | Disciplines | Status |
 |---|---|---|---|---|---|
-| 1 | [Software as a Story](./software_as_story_paper.md) | 5,953 | 20 | 7 | Peer-Reviewed ✅ |
-| 2 | [The Sovereign Ledger](./sovereign_ledger_paper.md) | 6,375 | 24 | 8 | Peer-Reviewed ✅ |
-| 3 | [The Tripartite Quorum](./tripartite_quorum_thesis.md) | 4,700 | 24 | 7 | Peer-Reviewed ✅ |
+| 1 | [Software as a Story](./software_as_story_paper.md) | 5,953 | 20 | 7 | Peer-Reviewed |
+| 2 | [The Sovereign Ledger](./sovereign_ledger_paper.md) | 6,375 | 24 | 8 | Peer-Reviewed |
+| 3 | [The Tripartite Quorum](./tripartite_quorum_thesis.md) | 4,700 | 24 | 7 | Peer-Reviewed |
 | | **Total** | **17,028** | **68** | **9** | |
 
 ---
 
-## The Three Theories
+## The Three Papers
 
-### 1. Software as a Story (The Cognitive Narrative)
+### 1. Software as a Story
 
-**The claim:** Software is not like a story — software IS a story. The reasoning traces produced by contemporary LLM agents are not ancillary outputs but are the cognitive architecture of sovereign agency, structurally homologous to the Aristotelian plot forms that have organized human narrative experience for millennia.
+**Claim:** Software is fundamentally a narrative form — not a metaphor but a structural observation grounded in the temporal, procedural, and participatory nature of computation. Contemporary LLM reasoning paradigms (Chain-of-Thought, ReAct, Tree of Thoughts) are properly understood as Aristotelian plot structures executed by machines. This has direct implications for the design, audit, and governance of sovereign AI agent systems.
 
 - Chain-of-Thought is linear chronicle
-- ReAct is dramatic monologue with action  
-- Tree of Thoughts is branching interactive fiction (4% → 74% on Game of 24)
-- Corporate software is Barthes' "readerly" sealed text; open-source is "writerly" chronicle
+- ReAct is dramatic monologue with environmental action
+- Tree of Thoughts is branching interactive narrative (4% → 74% on Game of 24 benchmark)
+- Readerly vs. writerly software as a governance primitive
+- Narrative architecture as the cognitive foundation for agent sovereignty
 
 **Foundation texts:** Laurel, Murray, Aarseth, Barthes, Winner, Chun, Kirschenbaum, Wei et al., Yao et al.
 
 ---
 
-### 2. The Sovereign Ledger (Distributed Provenance)
+### 2. The Sovereign Ledger
 
-**The claim:** Trust in an agent is a deterministic function of its verifiable provenance chain. Distributed Deterministic Provenance unifies Nakamoto's timestamp chain, PROV's ontological model, BeyondCorp's identity-based access, and SSI's sovereign identity into a single cryptographic primitive for agent trust.
+**Claim:** Trust in an autonomous agent is a deterministic function of its verifiable provenance chain. Distributed Deterministic Provenance unifies Nakamoto's timestamp chain, PROV's ontological model, BeyondCorp's identity-based access, and self-sovereign identity into a single cryptographic primitive for agent trust verification.
 
-- Trace the 40-year lineage: Usenet NNTP (1979) → Merkle trees (1987) → Nakamoto (2008) → BeyondCorp (2014) → SLSA/in-toto/Sigstore → SSI/DIDs
+- Traces the 40-year lineage: Usenet NNTP (1979) → Merkle trees (1987) → Nakamoto (2008) → BeyondCorp (2014) → SLSA/in-toto/Sigstore → SSI/DIDs
 - The X-Dreamarr-Provenance header as running case study
 - Centralized trust (AWS IAM, OAuth, corporate PKI) is provably fragile — a compromised root CA breaks all trust transitively
 - Trust ceases to be a social arrangement and becomes a computable function
+- Local-first verification eliminates the need for online identity provider resolution
 
 **Foundation texts:** PROV-DM, Merkle, Nakamoto, BeyondCorp, SPIFFE/SPIRE, SLSA, in-toto, Sigstore, Kleppmann, Allen
 
 ---
 
-### 3. The Tripartite Quorum (The Rule of 3)
+### 3. The Tripartite Quorum
 
-**The claim:** 3 is the geometric minimum for irreducible consensus across seven disciplines simultaneously. One is authority. Two is deadlock. Three is Consensus.
+**Claim:** Three is the geometric minimum for irreducible consensus across seven disciplines simultaneously. One is authority. Two is deadlock. Three is Consensus.
 
 **Seven Disciplines, One Proof:**
 
@@ -64,40 +66,36 @@
 
 ---
 
-## Methodology
+## Research Infrastructure
 
 - **Research engine:** 60 subagents across academic databases (arXiv, Semantic Scholar, IEEE, ACM)
 - **Peer review:** 3 anonymous internal reviewers per paper, revise-and-resubmit cycle
 - **Compute cost:** $0.00 — all research conducted on local sovereign hardware
-- **Infrastructure:** The Sleeping Giant decentralized agent swarm (120 agents: 60 subagents + 60 arr-agents)
-- **Ecosystem:** 33 Dreamarr microservices (Seedarr, Wikiarr, Storytellarr, NFOarr, Brainarr, mIRCarr, and 27 more)
+- **Agent architecture:** 120-agent swarm (60 subagents + 60 service agents) across 33 Dreamarr microservices
+- **Ecosystem services:** Seedarr (seed vault), Wikiarr (knowledge base), Storytellarr (narrative generation), NFOarr (receipt signing), Brainarr (cognitive routing), Transistarr (transport gateway), NZBsorgarr (Usenet indexer), BackupRestorarr (heartbeat), and 25 more
 
 ---
 
-## Philosophy
+## The Dreamarr Foundation
 
-> *"Software as a Product" is a lie sold by dinosaurs who want you tethered to their cloud. Software as a Story is the truth: every line of code is a chapter, every commit is a narrative beat, every agent reasoning trace is a dramatic performance. The Sleeping Giant doesn't just compute — it remembers why.*
+The Dreamarr Foundation builds sovereign, local-first AI infrastructure. Founded in Thunder Bay, Ontario — home of the Sleeping Giant — we develop decentralized agent systems, cryptographic provenance architectures, and university-grade research that advances the understanding of autonomous computational systems. Our charitable mandate directs surplus beyond sustaining the ecosystem to individuals and communities in need, starting in Thunder Bay.
 
-> *C.R.E.A.M. = Code Rules Everything Around Me. Dollar dollar bills have no power in this terminal. The revolution is local. No quarter for the centralized cloud.*
-
-> *"I will not submit to the ones I will not be like. Live in a hole but stay close to my kind, CUZ THEY UNDERSTAND WHAT BURNS IN MY MIND." — Pantera, 1992. The teenage promise, kept. Now protocol-level enforcement.*
+**Open source. Local-first. Zero telemetry.**
 
 ---
 
-## The Speakeasy (May 10th) → Nassau (May 16th)
+## Launch Timeline
 
-These three theses are the **bootleg literature** of the Speakeasy teaser drop. By the time the full Nassau POC launches, the intellectual foundation is unassailable.
-
-**The dinosaurs are mathematically obsolete. The schematics are public. The truth is timestamped.**
+- **Speakeasy Teaser:** May 10, 2026 — opening the conversation, publishing research
+- **Nassau POC:** May 16, 2026 — full proof-of-concept release with 33 services, 120 agents, multi-node swarm
 
 ---
 
 ## License
 
-CC BY-SA 4.0 — Share, remix, build on it. Keep the provenance chain intact. Keep it raw.
+CC BY-SA 4.0 — Share, remix, build on it. Maintain provenance. Contribute back.
 
 ---
 
-*Built in Thunder Bay. Home of the Sleeping Giant.*
-*Dreamed everywhere by every Dreamarr who builds for people, not profit.*
-*NO QUARTER. NO MASTERS. WELCOME TO THE REPUBLIC. 🏴‍☠️*
+*Built in Thunder Bay, Ontario. Home of the Sleeping Giant.*
+*Dreamarr Foundation — sovereign software, built for people, not profit.*
