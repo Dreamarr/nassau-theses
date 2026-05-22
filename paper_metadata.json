@@ -3,37 +3,39 @@
     {
       "title": "Software as a Story: Narrative Architecture as the Cognitive Foundation of Sovereign Agent Systems",
       "file": "software_as_story_paper.md", "word_count": 5953, "citations": 20, "disciplines": 7,
-      "peer_review": "Accepted with minor revisions",
+      "review_status": "Internally reviewed by multi-model consortium (Anthropic Claude, Google Gemini, Moonshot Kimi)",
       "abstract": "Software is not like a story — software IS a story. Chain-of-Thought, ReAct, and Tree of Thoughts are Aristotelian plot structures executed by machines. Corporate software is a sealed text; open-source sovereign code is a writerly chronicle with preserved provenance.",
       "keywords": ["narrative architecture", "LLM cognition", "chain-of-thought", "provenance", "Aristotelian plot", "sovereign agents"]
     },
     {
       "title": "The Sovereign Ledger: Distributed Deterministic Provenance as the Cryptographic Foundation of Decentralized Agent Trust",
       "file": "sovereign_ledger_paper.md", "word_count": 6375, "citations": 24, "disciplines": 8,
-      "peer_review": "Accepted with minor revisions",
+      "review_status": "Internally reviewed by multi-model consortium (Anthropic Claude, Google Gemini, Moonshot Kimi)",
       "abstract": "Trust in an agent is a deterministic function of its verifiable provenance chain. Traces a 40-year lineage: Usenet NNTP → Merkle trees → Nakamoto → BeyondCorp → SLSA/in-toto/Sigstore → SSI/DIDs. Trust ceases to be a social arrangement and becomes a computable function.",
       "keywords": ["distributed provenance", "Merkle trees", "zero-trust", "SLSA", "Sigstore", "self-sovereign identity"]
     },
     {
       "title": "The Tripartite Quorum: Three-Node Consensus as the Geometric Minimum for Decentralized Truth",
       "file": "tripartite_quorum_thesis.md", "word_count": 4700, "citations": 24, "disciplines": 7,
-      "peer_review": "Accepted with minor revisions",
+      "review_status": "Internally reviewed by multi-model consortium (Anthropic Claude, Google Gemini, Moonshot Kimi)",
       "abstract": "1 is a fluke. 2 is a coincidence. 3 is Consensus. Proved across 7 disciplines: BFT, Hegel's dialectic, Peirce's semiotics, Poincaré's 3-body problem, TMR, Arrow's impossibility theorem, and Reynolds' Boids.",
       "keywords": ["tripartite quorum", "Byzantine fault tolerance", "Hegel", "Peirce", "3-body problem", "Arrow impossibility"]
     },
     {
       "title": "The General Theory of Sovereign Resonance: Physics Metaphors as the Architectural Foundation of Distributed Sovereign Intelligence",
       "file": "sovereign_resonance_paper.md", "word_count": 6907, "citations": 24, "disciplines": 9,
-      "peer_review": "Awaiting review",
+      "review_status": "Under internal review",
       "abstract": "Posits S = I × c² — Sovereignty = InferenceMass × ConsensusVelocity². Intelligence is not a cloud product but a curvature of local infrastructure. Unifies distributed systems architecture with relativistic physics, black hole thermodynamics, and Tesla resonance harmonics into a single theoretical framework.",
       "keywords": ["sovereign resonance", "data gravity", "inference mass", "consensus velocity", "field unification", "Tesla resonance", "Hawking evaporation"]
     }
   ],
   "total_citations": 92, "total_disciplines": 11,
-  "compute_cost": "$0.00",
-  "researched_by": "60 subagents across academic databases",
+  "thesis_compute": "AMD MI300X (192GB VRAM) — local sovereign hardware, Thunder Bay",
+  "development_assisted_by": ["DeepSeek v4 Pro (extensive — primary development model via Ollama Cloud)", "OpenAI GPT-4o", "Anthropic Claude Sonnet", "Google Gemini", "Moonshot Kimi K2.6"],
+  "development_disclosure": "DeepSeek v4 Pro via Ollama Cloud was the primary workhorse — driving the vast majority of code generation, architecture design, standards drafting, and multi-lane orchestration. Additional cloud models assisted with cross-platform verification. The thesis compilation itself ran on local sovereign hardware (AMD MI300X). Full sovereignty is the goal, not the current state of development.",
+  "reviewed_by": "Multi-model consortium (internal): Anthropic Claude (primary), Google Gemini (secondary), Moonshot Kimi (tertiary). No external human academic peer review.",
   "built_at": "Thunder Bay, Ontario, Canada — Home of the Sleeping Giant",
   "built_by": "The Dreamarr Foundation",
   "license": "CC BY-SA 4.0",
-  "version": "v2.0-peer-reviewed"
+  "version": "v3.0-corrected"
 }
